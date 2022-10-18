@@ -1,0 +1,3 @@
+Please develop a python script which will parse through forParsing_task.xls adn generate an output file with structured data in a delimited format, e.g. cleaned_example.csv
+Use any libs you want, but you will need to explain why you chose libs you used
+
